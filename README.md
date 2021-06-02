@@ -13,6 +13,7 @@ Currently looking for new oppurtunities. You can contact me here:
     <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 ## My Favorite Technologies
 
 ### Languages
