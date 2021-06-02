@@ -4,7 +4,8 @@
 
 I'm a Software Engineer and Blockchain enthusiast. I enjoy working on full-stack web applications and Solidity smart contracts.
 
-Currently looking for new oppurtunities. You can contact me here:
+Currently looking for new oppurtunities. 
+
 <div>
   <a href="mailto:sammasno@gmail.com">
     <img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
