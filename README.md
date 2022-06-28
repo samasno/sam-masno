@@ -1,10 +1,9 @@
-### Hi There 👋
+### Software Engineer
 <br>
 
 
-I'm a Software Engineer and Blockchain enthusiast. I enjoy working on full-stack web applications and Solidity smart contracts.
+I'm a Software Engineer and Blockchain enthusiast. I have experience in full-stack web development with a focus on the backend.
 
-Currently looking for new oppurtunities. 
 
 <div>
   <a href="mailto:sammasno@gmail.com">
@@ -17,17 +16,14 @@ Currently looking for new oppurtunities.
 
 ## My Favorite Technologies
 
-### Languages
-* Javascript/Nodejs
-* Solidity
-
 ### Frontend 
+* Typescript/Javascript
 * React
 * Redux
-* Web3js
 
 ### Backend
-* Express
+* Express/Nodejs
+* Golang
 * Trufflejs
 * PostgreSQL
 * AWS
